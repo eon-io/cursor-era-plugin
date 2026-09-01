@@ -1,0 +1,21 @@
+{
+  "name": "era-eon-io",
+  "owner": {
+    "name": "Eon",
+    "url": "https://eon.io"
+  },
+  "metadata": {
+    "description": "Era plugin marketplace — MCP server for provisioning and managing synthetic design partners."
+  },
+  "plugins": [
+    {
+      "name": "era",
+      "description": "Era MCP server — sign in, provision synthetic design partners, and manage tokens across Era's connector fleet.",
+      "source": {
+        "source": "github",
+        "repo": "eon-io/cursor-era-plugin"
+      },
+      "homepage": "https://console.era.eon.io"
+    }
+  ]
+}
